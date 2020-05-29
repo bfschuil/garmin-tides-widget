@@ -1,6 +1,6 @@
-using Toybox.WatchUi as Ui;
+using Toybox.WatchUi;
 
-class garmintideswidgetView extends Ui.View {
+class garmintideswidgetView extends WatchUi.View {
 
     function initialize() {
         View.initialize();

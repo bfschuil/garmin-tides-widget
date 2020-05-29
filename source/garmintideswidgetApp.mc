@@ -1,6 +1,6 @@
-using Toybox.Application as App;
+using Toybox.Application;
 
-class garmintideswidgetApp extends App.AppBase {
+class garmintideswidgetApp extends Application.AppBase {
 
     function initialize() {
         AppBase.initialize();
